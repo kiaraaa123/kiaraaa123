@@ -39,7 +39,6 @@ Here are some ideas to get you started:-->
 ## Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=OvHfxNJ4T2jr&format=png&color=000000/"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=2tHbkMhSLMfq&format=png&color=000000"/></a>
-<a href="https://www.getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="26px" src="https://img.icons8.com/?size=100&id=vATPcylxkCB7&format=png&color=000000"></a>
 <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" width="26px" src="https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000"></a>
 <a href="https://www.python.org" target="_blank"><img alt="Python" width="26px" src="https://img.icons8.com/?size=100&id=0vplMYeajmDb&format=png&color=000000/"></a>
 <a href="https://github.com/" target="_blank"><img alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000"></a>
