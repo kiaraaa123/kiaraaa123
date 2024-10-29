@@ -9,8 +9,8 @@ Here are some ideas to get you started:-->
 <details>
   <summary>👩🏾 More about me</summary>
   <ul>
-    <li>🔭 I’m currently working on an <b>MS Graphic Information Technology from ASU</b> and a trainee in the <b>NPower Path2Tech program</b></li>
-   <li>🤓 Right now I’m learning <b>JavaScript</b></li>
+<!--     <li>🔭 I’m currently working on an <b>MS Graphic Information Technology from ASU</b> and a trainee in the <b>NPower Path2Tech program</b></li>
+   <li>🤓 Right now I’m learning <b>JavaScript</b></li> -->
     <!--<li>👯 I’m looking to collaborate on ... </li>-->
    <li>🙋🏾‍♀️ I’m looking for help with <b>finding projects to contribute to!</b></li>
    <!-- <li>💬 Ask me about ...</li> -->
