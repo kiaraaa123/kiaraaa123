@@ -47,4 +47,4 @@ Here are some ideas to get you started:-->
 <br>
 
 ## 🔥 Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kiaraaa123)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kiaraaa123&theme=yeblu)](https://git.io/streak-stats)
