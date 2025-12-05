@@ -47,6 +47,4 @@ Here are some ideas to get you started:-->
 <br>
 
 ## 🔥 Github Stats
-
-  <a href="https://github.com/kiaraaa123"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiaraaa123&theme=shades-of-purple&title_color=ff3068?"></a>
-  <a href="https://git.io/streak-stats"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=kiaraaa123&theme=shades-of-purple&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kiaraaa123)](https://git.io/streak-stats)
